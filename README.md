@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
