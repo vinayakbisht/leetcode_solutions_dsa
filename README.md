@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -120,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
