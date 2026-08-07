@@ -1,28 +1,27 @@
 class Solution {
 public:
-    int t[1001][1001];
-    int solve(string &s, int i, int j){
-        if(i>=j) return true;
-         
-        if(t[i][j] != -1){   //if already solved
-            return t[i][j];
-        }
-        if(s[i] == s[j]){
-            return t[i][j] = solve(s,i+1,j-1);
-        }
-        return t[i][j] = 0;
-    }
-
     int countSubstrings(string s){
         int n = s.size();
-        memset(t, -1, sizeof(t));
+
+        vector<vector<bool>> t(n, vector<bool>(n,false));
         int count = 0;
 
-        for(int i=0; i<n; i++){
-            for(int j=i; j<n; j++){
-                if(solve(s,i,j)){
-                    count++;
+        for(int len=1; len<=n; len++){
+            for(int i=0; i+len-1<n; i++){
+                
+               int j = i+len-1;
+
+               if(i==j){                  //1 length
+                  t[i][j] = true;
                 }
+                else if(i+1 == j){      // 2 length
+                   t[i][j] = (s[i] == s[j]);
+
+                } else{
+                    t[i][j] = (s[i] == s[j] && t[i+1][j-1] == true);
+                }
+
+                if(t[i][j] == true) count++;
             }
         }
         return count;
