@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vinayakbisht/leetcode_solutions_dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
